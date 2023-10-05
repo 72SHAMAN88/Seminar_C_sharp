@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj": {}
+    "C:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj": {
+    "C:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj",
         "projectName": "Sem1",
-        "projectPath": "c:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\Sem1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\GEEK BRAINS учеба IT\\Знакомство с языками программирования\\семинары\\урок 1\\практика\\SEMINAR_C_SHARP\\Seminars\\Sem1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

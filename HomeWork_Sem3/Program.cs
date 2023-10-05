@@ -16,17 +16,15 @@ public class Answer
 {
     static bool IsPalindrome(int number)
     {
-
       // Введите свое решение ниже
         int num1 = number / 10000;
         int num2 = number / 1000 % 10;
         int rev1 = number % 10;
         int rev2 = number / 10 % 10
         int nul = number / 100000;
-        if(nul < 1 || nul > 9)
+        if(number > 9999 && number < 100000)
         {
-            Console.WriteLine("Число не пятизначное");
-            return false;
+            return false
         }
         else if (num == rev1 && num2 == rev2)
         {
@@ -34,7 +32,8 @@ public class Answer
         }
         else
         {
-            return false
+            Console.WriteLine("Число не пятизначное");
+            return false;
         }
     }
   
